@@ -1,2 +1,4 @@
-# find-the-nth-character-in-a-string
-use-bracket-notation-to-find-the-nth-character-in-a-string
+// Setup
+var lastName = "Lovelace";
+// Only change code below this line
+var thirdLetterOfLastName = lastName[2]; // Change this line
